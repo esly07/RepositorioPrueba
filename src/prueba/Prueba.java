@@ -15,6 +15,10 @@ public class Prueba {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        System.out.print("HOLA");
+        System.out.print("CHAO");
+                
+                
         // TODO code application logic here
     }
     
